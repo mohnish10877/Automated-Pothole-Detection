@@ -16,6 +16,10 @@ The WebApp is live [here](https://aannuuj.github.io/pothole-web/index.html).
 
 >We aim to provide live data on the conditions of roads, locations of potholes, and more, thus making it easier for the municipality to keep roads well maintained and safe. 
 
+## Bussiness Model
+
+>We aim to provide live data on the conditions of roads, locations of potholes, and more, thus making it easier for the municipality to keep roads well maintained and safe. 
+
 ## Technical Stack used:
 
 1. Flask
@@ -31,3 +35,4 @@ The WebApp is live [here](https://aannuuj.github.io/pothole-web/index.html).
 4. seebond
 
 
+Team mates - [Shubhayan Saha](https://github.com/ShubhayanS), [Soumyasinha29](https://github.com/), [Bangaru Mohnish](https://github.com/mohnish10877), [Arko Chatterjee](https://github.com/arkochatterjee), [Hariom Palkar](https://github.com/aannuuj), [Daanish Khan](https://github.com/daanishkhan21)
