@@ -1,8 +1,8 @@
 # Plothole
 
-![logo][(https://aannuuj.github.io/pothole-web/images/logo.png/).
+![logo]
 
-The WebApp is live [here](https://aannuuj.github.io/pothole-web/images/logo.png/).
+The WebApp is live [here](https://aannuuj.github.io/pothole-web/index.html).
 
 ## The Problem
 
