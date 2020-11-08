@@ -35,4 +35,3 @@ The WebApp is live [here](https://aannuuj.github.io/pothole-web/index.html).
 4. seaborn
 
 
-Team mates - [Shubhayan Saha](https://github.com/ShubhayanS), [Soumyasinha29](https://github.com/), [Bangaru Mohnish](https://github.com/mohnish10877), [Arko Chatterjee](https://github.com/arkochatterjee), [Hariom Palkar](https://github.com/aannuuj), [Daanish Khan](https://github.com/daanishkhan21)
